@@ -13,7 +13,7 @@
 			<button type="page" label="@string/tag.car" icon="button_car" targetlayout="car"  />
 		</row>
 		<row>
-			<button type="page" label="Feuerwehr/Notfall" icon="firefighter-silhouette.png" targetlayout="emergency"  />
+			<button type="page" label="Feuerwehr/Notfall" icon="bod_urban1_icons/firefighter-silhouette.png" targetlayout="emergency"  />
 			<button type="page" label="@string/tag.amenity" icon="button_amenity" targetlayout="amenity"  />
 			<button type="page" label="@string/tag.amenity_more" icon="button_amenity" targetlayout="amenity_more"  />
 		</row>
@@ -94,9 +94,9 @@
 			<button type="textnote" icon="text_32x32" />
 		</row>
 		<row>
-			<button type="tag" label="Hydrant" icon="fire-hydrant.png" />
-			<button type="tag" label="Defibrillator" icon="defibrillator.png" />
-			<button type="tag" label="BMA etc." icon="firefighter-silhouette.png" />
+			<button type="tag" label="Hydrant" icon="bod_urban1_icons/fire-hydrant.png" />
+			<button type="tag" label="Defibrillator" icon="bod_urban1_icons/defibrillator.png" />
+			<button type="tag" label="BMA etc." icon="bod_urban1_icons/firefighter-silhouette.png" />
 		</row>
 		<row>
 			<button type="tag" label="@string/tag.tourism_attraction" icon="button_tourism_attraction" />
