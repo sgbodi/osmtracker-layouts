@@ -175,17 +175,17 @@
 		<row>
 			<button type="tag" label="@string/tag.way_bridge" icon="button_way_bridge" />
 			<button type="tag" label="@string/tag.way_zebra_crossing" icon="button_way_zebra_crossing" />
-			<button type="tag" label="@string/tag.way_motorway" icon="button_way_motorway" />
+			<button type="tag" label="Poller" icon="button_way_motorway" />
 		</row>
 		<row>
-			<button type="tag" label="@string/tag.way_trunk" icon="button_way_trunk" />
-			<button type="tag" label="@string/tag.way_primary" icon="button_way_primary" />
-			<button type="tag" label="@string/tag.way_secondary" icon="button_way_secondary" />
+			<button type="tag" label="Trampelpfad" icon="button_way_trunk" />
+			<button type="tag" label="Fußweg" icon="button_way_primary" />
+			<button type="tag" label="Geh/Radweg" icon="button_way_secondary" />
 		</row>
 		<row>
-			<button type="tag" label="@string/tag.way_tertiary" icon="button_way_tertiary" />
-			<button type="tag" label="@string/tag.way_residential" icon="button_way_residential" />
-			<button type="tag" label="@string/tag.way_service" icon="button_way_service" />
+			<button type="tag" label="Landstraße" icon="button_way_tertiary" />
+			<button type="tag" label="Gemeindestraße" icon="button_way_residential" />
+			<button type="tag" label="Grundstückszufahrt" icon="button_way_service" />
 		</row>
 	</layout>
 
